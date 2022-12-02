@@ -16,3 +16,6 @@ img{
   <img src="banner.jpg">
   <img src = "https://i.pinimg.com/originals/f3/62/b0/f362b078c41c28315a321df9ae07ed6f.jpg"/>
 }
+.textoprincipal{
+  display: flex
+}
